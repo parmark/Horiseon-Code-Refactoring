@@ -44,9 +44,6 @@ a {
     text-decoration: none;
 }
 
-/* 
-    Sets the main image of the page by pulling from a url
-*/
 figure img{
     height: 800px;
     width: 100%;
